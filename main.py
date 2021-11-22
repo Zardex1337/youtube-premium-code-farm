@@ -8,7 +8,7 @@ def drawing():
 ╚╦╝║ ║║ ║ ║ ║ ║╠╩╗║╣   ╠═╝╠╦╝║╣ ║║║║║ ║║║║  ╠╣ ╠═╣╠╦╝║║║
  ╩ ╚═╝╚═╝ ╩ ╚═╝╚═╝╚═╝  ╩  ╩╚═╚═╝╩ ╩╩╚═╝╩ ╩  ╚  ╩ ╩╩╚═╩ ╩
   """
-os.system("cls & title Youtube Codes Fetcher [.Zardex#1337]")
+os.system("cls & title Youtube Codes Fetcher [~Zardex#1337]")
 drawing()
 with open('tokens.txt') as e:
   for line in e:
